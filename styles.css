@@ -5,6 +5,18 @@
     font-size: 1.2em;
 }
 
+table {
+    border: 10px solid #000;
+    padding: 5px;
+}
+
+#title {
+    background-color: #000;
+    color: #FFF;
+    font-weight: bolder;
+    padding: 8px;
+}
+
 td {
     background-color: blue;
     padding: 15px 40px;
@@ -15,7 +27,8 @@ td {
 }
 
 #result{
-    border: 1px solid #000;
+    border: 2px solid #000;
     padding: 15px 40px;
     text-align: right;
+    font-weight: bolder;
 }
