@@ -1,7 +1,7 @@
 # brython-calculator
 
-This calculator program shows how I developed an application that 
-runs in the browser using the Python programming language.
+This calculator app is developed with intention of playing with Brython app, 
+and It is capable of running in the browser using the Python programming language.
 
 >This is not actually Python. it is Brython. 
 
@@ -23,12 +23,13 @@ You will need the following:
 ![img.png](img.png)
 
 ## Version Control
->echo "# brython-calculator" >> README.md
->git init
->git add README.md
->git commit -m "first commit"
->git branch -M main
->git remote add origin https://github.com/Gadrawingz/brython-calculator.git
->git push -u origin main
+```git
+echo "# brython-calculator" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Gadrawingz/brython-calculator.git
+git push -u origin main
 
-### Happy life!
+### Happy coding!
